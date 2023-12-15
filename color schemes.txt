@@ -1,0 +1,45 @@
+colorways
+ A:080B0C(main page)
+2f639d
+6b9fda
+edf6fc
+
+B. 080b0c(podcast)
+40424a
+878A97
+FFFFFF
+
+C.33290a(porfolio)
+697a21
+f9c22e
+fbdf9d
+
+C(alt):2e300d
+697a21
+f9c22e
+fbdf9d
+
+D:#607274(ehhhh) 
+#FAEED1
+#DED0B6
+#B2A59B
+
+E:#163020 (good greens) 
+#304D30
+#B6C4B6
+#EEF0E5
+
+F:#092635(it mainly blues idk if you wanna use this)
+#1B4242
+#5C8374
+#9EC8B9
+
+G:#363062 (wayy better than F)(biography)
+#435585
+#818FB4
+#F5E8C7
+
+H:#F3EEEA good combos in brown(socials)
+#EBE3D5
+#B0A695
+#776B5D

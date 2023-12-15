@@ -1,1 +1,7 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-24ddc0f5d75046c5622901739e7c5dd533143b0c8e959d652212380cedb1ea36.svg)](https://classroom.github.com/a/E64_kNjt)
+1.hello welcome to my websites final project! its a website template for showing your porfolio, podcasts or projects, and other media. 
+
+2.installation instructions: please keep in mind that you must change that folder/files locations as it may not work as the c:/.../... may not work.
+
+3.if you have any issues, coding requests, or pull requests contact me through my email: Seanacceus.2005@gmail.com 
+
+4.license
