@@ -1,3 +1,5 @@
+website: https://cis-famu.github.io/final-project-Sean-A111/index.html
+
 1.hello welcome to my websites final project! its a website template for showing your porfolio, podcasts or projects, and other media. 
 
 2.installation instructions: please keep in mind that you must change that folder/files locations as it may not work as the c:/.../... may not work.
