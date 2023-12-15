@@ -4,4 +4,4 @@
 
 3.if you have any issues, coding requests, or pull requests contact me through my email: Seanacceus.2005@gmail.com 
 
-4.license
+4.licensing is not an issue here. 
